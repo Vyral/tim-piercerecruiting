@@ -10,21 +10,21 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
+  name: Tim Peirce
   title:
   license_number:
   about_markdown: |
 
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Peirce Group
+  brokerage: Keller Williams
+  address: 8 Lafayette Place Hilton Head Island, SC 29926
+  phone: 843-481-2225
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@thepeircegroup.com
+  url: https://www.findhiltonheadareahomes.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -84,8 +84,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#818181'
+  theme_color: '#342705'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
