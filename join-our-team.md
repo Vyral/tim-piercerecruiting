@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Careers
 permalink: /join-our-team/
 ---
 <br>
