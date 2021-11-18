@@ -5,8 +5,8 @@
     <description>Tim Peirce, a top Real Estate Agent in Hilton Head Island, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Oct 2021 12:48:49 -0500</pubDate>
-    <lastBuildDate>Thu, 28 Oct 2021 12:48:49 -0500</lastBuildDate>
+    <pubDate>Thu, 18 Nov 2021 14:37:45 -0600</pubDate>
+    <lastBuildDate>Thu, 18 Nov 2021 14:37:45 -0600</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -34,6 +34,8 @@
         <category>Lead Conversion</category>
         
         <category>Listing Presentation</category>
+        
+        <category>Stories</category>
         
         
       </item>

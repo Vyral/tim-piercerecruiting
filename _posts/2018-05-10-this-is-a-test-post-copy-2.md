@@ -14,6 +14,7 @@ tags:
   - Lead Generation
   - Lead Conversion
   - Listing Presentation
+  - Stories
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote
@@ -22,6 +23,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: SFFy_drFrZs
+hidden: false
 ---
 {% include youtube.html %}
 

@@ -33,6 +33,9 @@
 <loc>http://localhost:4000/sign-up/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/stories/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/strategy-call/</loc>
 </url>
 <url>
