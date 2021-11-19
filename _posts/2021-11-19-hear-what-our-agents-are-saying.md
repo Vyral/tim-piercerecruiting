@@ -14,4 +14,4 @@ youtube_alternate_image:
 youtube_code: oaSCkfv9uiQ
 hidden: false
 ---
-{% include youtube.html %} {% include full-post-cta.html %} {% include pullquote.html %}
+Watch this short video to hear what our agents have to say about working with The Peirce Group.
