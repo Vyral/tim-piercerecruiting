@@ -22,11 +22,7 @@ If you haven’t seen the recent headlines, there was big news for a real estate
 
 Zillow was committed to buying nearly 9,680 homes based solely on their algorithm, but they realized that a significant portion of the homes they purchased are now worth less than what they paid for them.
 
-&nbsp;
-
 &nbsp;{% include pullquote.html %}
-
-&nbsp;
 
 Fifteen years ago, Zillow invented their computer-based valuation system, also known as the Zestimate. It is their claim to fame and ultimately what drew consumers to their site. Yet, after billions invested and continued refinement in the Zestimate, it’s still proving to be unreliable.
 
