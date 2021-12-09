@@ -18,13 +18,13 @@ hidden: false
 
 {% include excerpt.html %}
 
-If you haven’t seen the recent headlines, there was big news for a real estate tech giant this past week. **Zillow announced to the world that it is shuttering its iBuying business, Zillow Offers.** This comes after the news that they are writing down $304 million in Q3 and laying off 2,000 employees. Wall Street didn’t like this news much, and the stock tumbled 18%.
+If you haven’t seen the recent headlines, there was big news for a real estate tech giant recently. **Zillow announced to the world that it is shuttering its iBuying business, Zillow Offers.** This comes after the news that they are writing down $304 million in Q3 and laying off 2,000 employees. Wall Street didn’t like this news much, and the stock tumbled 18%.
 
 Zillow was committed to buying nearly 9,680 homes based solely on their algorithm, but they realized that a significant portion of the homes they purchased are now worth less than what they paid for them.
 
 &nbsp;{% include pullquote.html %}
 
-Fifteen years ago, Zillow invented their computer-based valuation system, also known as the Zestimate. It is their claim to fame and ultimately what drew consumers to their site. Yet, after billions invested and continued refinement in the Zestimate, it’s still proving to be unreliable.
+15 years ago, Zillow invented their computer-based valuation system, also known as the Zestimate. It is their claim to fame and ultimately what drew consumers to their site. Yet, after billions invested and continued refinement in the Zestimate, it’s still proving to be unreliable.
 
 What does this all mean? Is there a crash coming? **Quite the opposite\!** Research has continually shown that these computer-based models are riddled with flaws.
 
