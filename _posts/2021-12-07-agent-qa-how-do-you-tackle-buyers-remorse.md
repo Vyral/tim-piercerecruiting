@@ -11,7 +11,7 @@ pullquote: Remind them that you’re here for them throughout the process.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/tim-peirce-recr-yt-3.jpg
+youtube_alternate_image: /uploads/tim-peirce-recr-yt-1.jpg
 youtube_code: Aj2mbEEg19g
 hidden: false
 ---
@@ -27,6 +27,6 @@ One of the top agents in the Peirce Group came to me the other day, telling me t
 
 I often say something to the effect of, “Now that you’ve signed this contract, you might go home and lose sleep over it. Most people do\! It’s a very simple thing called buyer’s remorse, and it’s usually the worst on the second and third days after going under contract.”
 
-**Make sure to add that your clients should come to you when they’re having these feelings.** Remind them that you’re here for them throughout the process, and set expectations with them upfront so that you can help them navigate the emotional aspects of the process as well. There’s nothing more impactful than telling a story about how you’ve had buyer’s remorse yourself at some point; show them that you know how they feel and that you know to move forward through it. In the end, don’t let one excuse allow a contract to go under. Most of the time, it’s not actually because of the excuse they give you.&nbsp;
+**Make sure to add that your clients should come to you when they’re having these feelings.** Remind them that you’re here for them throughout the process, and set expectations with them upfront so that you can help them navigate the emotional aspects of the process as well. There’s nothing more impactful than telling a story about how you’ve had buyer’s remorse yourself at some point; show them that you know how they feel and that you know to move forward through it. In the end, don’t let one excuse allow a contract to go under. Most of the time, it’s not actually because of the excuse they give you.
 
 If you have any questions or need help in navigating your own client’s buyer’s remorse, don’t hesitate to reach out to me.
