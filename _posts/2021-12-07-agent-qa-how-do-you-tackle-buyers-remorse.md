@@ -11,7 +11,7 @@ pullquote: Remind them that you’re here for them throughout the process.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/tim-peirce-recr-yt-1.jpg
+youtube_alternate_image: /uploads/tim-peirce-recr-yt-2.jpg
 youtube_code: Aj2mbEEg19g
 hidden: false
 ---
