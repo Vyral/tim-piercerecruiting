@@ -10,8 +10,8 @@ pullquote: Computer-based models are always riddled with flaws.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/tim-peirce-yt.jpg
-youtube_code: pIMgO3QnRnA
+youtube_alternate_image: /uploads/tim-peirce-recr-yt-1-1.jpg
+youtube_code: BO5Fv0T_XXI
 hidden: false
 ---
 {% include youtube.html %}
