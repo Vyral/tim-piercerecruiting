@@ -5,7 +5,8 @@ date: 2021-12-03 05:00:00
 tags:
   - Stories
 excerpt: Here’s why Zillow has stopped buying homes for the foreseeable future.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/Zillow+Is+No+Longer+Purchasing+Properties.mp4
 pullquote: Computer-based models are always riddled with flaws.
 enclosure_type: video/mp4
 enclosure_time:
