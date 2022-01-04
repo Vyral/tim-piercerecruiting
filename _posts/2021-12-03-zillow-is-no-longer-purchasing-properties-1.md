@@ -3,7 +3,7 @@ layout: post
 title: Zillow Is No Longer Purchasing Properties
 date: 2021-12-03 05:00:00
 tags:
-  - Stories
+  - Real Estate News
 excerpt: Here’s why Zillow has stopped buying homes for the foreseeable future.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/Zillow+Is+No+Longer+Purchasing+Properties.mp4
