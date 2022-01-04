@@ -3,7 +3,6 @@ layout: post
 title: 'Agent Q&A: How Do You Tackle Buyer’s Remorse?'
 date: 2021-12-07 05:00:00
 tags:
-  - Stories
   - Transaction Management
 excerpt: Here’s how to help your clients who are dealing with buyer’s remorse.
 enclosure: >-
