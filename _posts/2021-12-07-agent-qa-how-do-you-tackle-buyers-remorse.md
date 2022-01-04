@@ -6,7 +6,8 @@ tags:
   - Stories
   - Transaction Management
 excerpt: Here’s how to help your clients who are dealing with buyer’s remorse.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/Agent+Q%26A_+How+Do+You+Tackle+Buyer%E2%80%99s+Remorse_.mp4
 pullquote: Remind them that you’re here for them throughout the process.
 enclosure_type: video/mp4
 enclosure_time:
