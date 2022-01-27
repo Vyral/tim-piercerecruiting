@@ -13,9 +13,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-yt-5.jpg
 youtube_code: SWKEuTCKBug
 hidden: false
 ---
-{% include youtube.html %}&nbsp;
-
-{% include excerpt.html %}&nbsp;
+{% include youtube.html %} {% include excerpt.html %}&nbsp;
 
 How do you start building your database if you're a brand new agent or if you're new to a given market?
 
