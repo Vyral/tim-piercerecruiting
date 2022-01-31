@@ -7,7 +7,8 @@ tags:
   - Stories
   - Transaction Management
 excerpt: Your database is one of your most valuable assets and useful tools.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/How+To+Start+Building+A+Data+Base.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-yt-5.jpg
 youtube_code: SWKEuTCKBug
 hidden: false
 ---
-{% include youtube.html %} {% include excerpt.html %}&nbsp;
+{% include youtube.html %} {% include excerpt.html %}
 
 How do you start building your database if you're a brand-new agent or if you're new to a given market?
 
