@@ -15,9 +15,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-yt-1-2.jpg
 youtube_code: 4an0MpLeQzU
 hidden: false
 ---
-{% include youtube.html %}&nbsp;
-
-{% include excerpt.html %}
+{% include youtube.html %} {% include excerpt.html %}
 
 We all know that the housing market has been super hot over the past year, so what do industry experts think 2022 has in store for us? Here are three key predictions:
 
