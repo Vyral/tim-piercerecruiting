@@ -3,8 +3,9 @@ layout: post
 title: 3 Important Real Estate Predictions
 date: 2022-01-31 05:00:00
 tags:
-  - Buyer Prospects
-  - Lead Generation
+  - Industry prediction
+  - market prediction
+  - housing market
 excerpt: Three key predictions experts have made about the 2022 housing market.
 enclosure:
 pullquote:
