@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-yt-6.jpg
 youtube_code: FHUqb6Jdacc
 hidden: false
 ---
-{% include youtube.html %} {% include excerpt%}&nbsp;
+{% include youtube.html %} {% include excerpt.html %}&nbsp;
 
 What's the best CRM to use in the real estate business, and how do you organize it? There’s almost no limit to the number of CRMs that you can choose from, and it can be overwhelming for agents. The most important thing to remember is that **the best CRM is the one that you will use**. On my team, we use Follow-Up Boss, but there are other CRMs like Hubspot, Command, Commissions Inc., and Boomtown.
 
