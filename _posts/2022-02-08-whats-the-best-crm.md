@@ -23,4 +23,4 @@ Once you get a CRM set up, organize it quickly. I sort buyers and sellers into t
 
 &nbsp;
 
-If you need help organizing your CRM or have any other questions, visit my website, and don’t hesitate to reach out by phone or email to book a 15-minute call with me. I’d be happy to help you.
+If you need help organizing your CRM or have any other questions, don’t hesitate to reach out by phone or email to book a 15-minute call with me. I’d be happy to help you.
