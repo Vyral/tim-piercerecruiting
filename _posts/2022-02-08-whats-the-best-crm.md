@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Transaction Management
 excerpt: The popular CRMs available to agents and how to get organized.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/What%E2%80%99s+the+Best+CRM_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
