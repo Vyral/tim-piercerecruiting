@@ -24,6 +24,6 @@ Which numbers should you track, and how should you track them? This is a really 
 
 {% include pullquote.html %}
 
-If you’re only selling a few houses a year and want to grow, you’ve got to know your numbers. Track them on an excel spreadsheet, if nothing else. **There are five things you need to track: set met, signed, under contract, and closed.&nbsp;**
+If you’re only selling a few houses a year and want to grow, you’ve got to know your numbers. Track them on an Excel spreadsheet, if nothing else. **There are five things you need to track: set, met, signed, under contract, and closed.&nbsp;**
 
 This is how you’re going to get better. If you’re really good at set and met but not so good at signed, you know where you need to improve and refine your skills. If you have any questions about how you track your numbers or what systems you should use, schedule a quick call with me. I’d be happy to talk about your numbers.
