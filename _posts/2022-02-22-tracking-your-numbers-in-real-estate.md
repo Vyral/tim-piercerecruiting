@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Transaction Management
 excerpt: The how, what, and why of tracking your numbers as a Realtor.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/Tracking+Your+Numbers+in+Real+Estate.mp4
 pullquote: If you want to grow, you have to track your numbers.
 enclosure_type: video/mp4
 enclosure_time:
