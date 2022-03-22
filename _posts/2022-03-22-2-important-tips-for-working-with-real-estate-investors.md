@@ -22,6 +22,6 @@ An agent came to me recently and asked how they could sharpen their skills for w
 
 **1\. Understand investor goals.** Find out if cash flow or long-term appreciation is more important to them. Having a plan to help them evaluate an investment based on those parameters is important, too.
 
-**2\. Know your terminology.** Like I said, some different terms come along with investments that aren't used in residential sales that you need to know. We pulled together a quick list of key terms like cap rate, cash-on-cash-return, and more. You can view it in full here.
+**2\. Know your terminology.** Like I said, some different terms come along with investments that aren't used in residential sales that you need to know. We pulled together a quick list of key terms like cap rate, cash-on-cash-return, and more. &nbsp;You can view it in full by sending me an email letting me know, and then I’ll send you the link\!
 
 If you have any questions for me about working with investors or about the business in general, don't hesitate to reach out via phone or email. I look forward to hearing from you soon.
