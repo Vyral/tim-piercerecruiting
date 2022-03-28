@@ -7,7 +7,8 @@ tags:
   - Investing
   - Real Estate Investors
 excerpt: Before working with an investor client, make sure you understand this list.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/2+Important+Tips+for+Working+With+Real+Estate+Investors.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
