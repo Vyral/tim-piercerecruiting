@@ -4,7 +4,6 @@ title: Building a Database From Scratch
 date: 2022-01-27 05:23:00
 tags:
   - Lead Generation
-  - Stories
   - Transaction Management
 excerpt: Your database is one of your most valuable assets and useful tools.
 enclosure: >-
