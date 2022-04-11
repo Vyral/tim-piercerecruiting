@@ -6,7 +6,8 @@ tags:
   - Career
   - Real Estate Career
 excerpt: Our onboarding and fast-track program will help you be an amazing agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/Our+Onboarding+and+Fast-Track+Program.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
