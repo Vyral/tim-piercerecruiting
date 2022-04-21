@@ -28,6 +28,4 @@ Why? They don’t know what to say. If you’re having the same problem, I prese
 
 **I’m going to ask for referrals from time to time, but I’m always going to ask them about FORD.** Listen when you talk to your clients, and if the opportunity to ask for business presents itself, do so. The worst they can do is say they aren’t buying or selling right now.&nbsp;
 
-Be authentic, listen to your clients, and most importantly, make the calls. They’ll appreciate it more than you know.
-
-If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+Be authentic, listen to your clients, and most importantly, make the calls. They’ll appreciate it more than you know. If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
