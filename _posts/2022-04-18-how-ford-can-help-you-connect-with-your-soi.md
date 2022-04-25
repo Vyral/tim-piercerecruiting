@@ -7,7 +7,8 @@ tags:
   - Lead Conversion
   - Transaction Management
 excerpt: Here’s what you need to connect with your SOI and past clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/How+FORD+Can+Help+You+Connect+With+Your+SOI.mp4
 pullquote: They’ll appreciate it more than you know.
 enclosure_type: video/mp4
 enclosure_time:
