@@ -25,6 +25,6 @@ I own a number of rental properties throughout our local market, and out of pure
 
 {% include pullquote.html %}
 
-So how do you respond if your buyer or seller tries to appeal to a Zestimate when you’re pricing their home? I’d recommend you pull up some data on Zillow and show them how flawed it is, and explain why it’s so off. They can’t deny the information when you put it right in front of them in black and white.
+So how do you respond if your buyer or seller tries to appeal to a Zestimate when you’re pricing their home? I’d recommend you pull up some data on Zillow and show them how flawed it is and explain why it’s so off. They can’t deny the information when you put it right in front of them in black and white.
 
 If you have any more questions about this or other real estate topics, don’t hesitate to give me a call or send me an email. I’d love to hear from you.
