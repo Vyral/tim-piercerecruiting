@@ -6,7 +6,8 @@ tags:
   - Stories
   - Transaction Management
 excerpt: Here’s how to respond to a client who relies too much on Zestimates.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/How+To+Talk+To+Your+Clients+About+Zillow.mp4
 pullquote: >-
   There’s no replacement for a human being’s involvement in the process of
   pricing a home.
