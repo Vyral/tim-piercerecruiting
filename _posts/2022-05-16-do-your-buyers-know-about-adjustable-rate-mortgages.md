@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-yt-10.jpg
 youtube_code: VZbWFkRRw-Y
 hidden: false
 ---
-{% include youtube.html %}&nbsp; {% include excerpt.html %}
+{% include youtube.html %}{% include excerpt.html %}
 
 Adjustable-rate mortgages (ARMs) are crucial for you to consider in today’s real estate environment. Over the last several years, the difference between a 30-year mortgage and an ARM has been so negligible that people stopped talking about them. But now, that has changed. **The 30-year mortgage averaged around 4.86% recently, but a 5/1 ARM was just 3.35%.** That’s over a 1.5% difference in rate\!
 
