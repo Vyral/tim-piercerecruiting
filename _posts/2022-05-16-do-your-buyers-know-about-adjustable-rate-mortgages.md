@@ -6,7 +6,8 @@ tags:
   - Buyer Prospects
   - Lead Generation
 excerpt: Why you should talk to your buyers about adjustable-rate mortgages.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Peirce/2022/Do+Your+Buyers+Know+About+Adjustable+Rate+Mortgages_.mp4
 pullquote: >-
   As a consultant to your buyers, you need to be educated on all the options
   available to them. 
