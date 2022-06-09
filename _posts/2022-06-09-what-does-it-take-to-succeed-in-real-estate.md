@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/tim-peirce-recr-emailyt.jpg
-youtube_code:
+youtube_code: Po3dvyJAOBk
 hidden: false
 ---
 {% include youtube.html %} {% include full-post-cta.html %}
