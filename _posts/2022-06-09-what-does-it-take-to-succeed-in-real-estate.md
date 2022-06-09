@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-emailyt.jpg
 youtube_code: Po3dvyJAOBk
 hidden: false
 ---
-{% include youtube.html %} {% include full-post-cta.html %}
+{% include youtube.html %}
 
 Did you know that 90% of agents don’t renew their licenses after their first year? If you’re new to the real estate business, you might be wondering what you’ll need to do in order to be in the 10% who stay and find success. Today I’ll share three tips that will help new agents thrive in the industry:
 
@@ -30,3 +30,5 @@ Did you know that 90% of agents don’t renew their licenses after their first y
 **3\. Find a mentor.** It’s vital to have a mentor to help you pull through those difficult times and share their wisdom with you.
 
 If you have any questions or would like more tips to help you build a solid foundation for your real estate career, give me a call or send me an email. I’d love to speak with you.
+
+{% include full-post-cta.html %}
