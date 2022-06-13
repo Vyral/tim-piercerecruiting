@@ -21,9 +21,9 @@ hidden: false
 
 {% include excerpt.html %}
 
-Did you know that 90% of agents don’t renew their licenses after their first year? If you’re new to the real estate business, you might be wondering what you’ll need to do in order to be in the 10% who stay and find success. Today I’ll share three tips that will help new agents thrive in the industry:
+Did you know that 90% of agents don’t renew their licenses after their first year? If you’re new to the real estate business, you might be wondering what you need to do&nbsp; to be in the 10% who stay and find success. Here are three tips that will help new agents thrive in the industry:
 
-**1\. Make sure you have a six-month financial reserve.** For your first 90 days in this business, you’ll be learning all about the industry, including the vocabulary and market data. Chances are you won’t make any sales in that period. And since sales don’t always close quickly, your first sale could be 45 days out even after those first 90 days. Given that, having a financial security blanket to lean on until you can start making sales is a smart move.
+**1\. Make sure you have a six-month financial reserve.** For your first 90 days in this business, you’ll be learning all about the industry, including the vocabulary and market data. Chances are you won’t make any sales in that period. Because sales don’t always close quickly, your first sale could be 45 days out even after those first 90 days. Given that, having a financial security blanket to lean on until you can start making sales is a smart move.
 
 {% include pullquote.html %}
 
