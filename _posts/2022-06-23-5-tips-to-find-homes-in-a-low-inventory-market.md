@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-yt-11.jpg
 youtube_code: xla2Dhhtc8U
 hidden: false
 ---
-{% include youtube.html %} {% include full-post-cta.html %} {% include excerpt.html %}
+{% include youtube.html %} {% include excerpt.html %}
 
 Everyone is struggling to find inventory for their buyers. That's why I want to share five great tips for finding homes in a low-inventory market. They’re all simple and easy to implement right away.
 
@@ -34,3 +34,5 @@ Everyone is struggling to find inventory for their buyers. That's why I want to 
 **5\. Send a list of your buyers’ needs to your past clients.** This is my favorite way to find inventory. You can make a list of your current buyers and what they’re looking for and send that list to your past clients, asking if they know anyone who’s looking to sell.
 
 If you have any questions or would like some guidance through this process, feel free to call or email me. I would love to help.
+
+{% include full-post-cta.html %}
