@@ -19,11 +19,11 @@ hidden: false
 ---
 {% include youtube.html %} {% include excerpt.html %}
 
-Everyone is struggling to find inventory for their buyers. That's why I want to share five great tips for finding homes in a low-inventory market. They’re all simple and easy to implement right away.
+Everyone is struggling to find inventory for their buyers. That's why I want to share five great tips for finding homes in a low-inventory market. They’re all simple and easy to implement right away:
 
 **1\. Collaborate with other agents.** If you have a buyer who’s looking for a home in a specific market, pull up the recent sales in that area and find an agent who excels at selling properties there. Figure out if they have any inventory coming on the market.
 
-**2\. Engage with your past clients.** Send them a market report or record a personalized video using an app like BombBomb. All you have to do is say you want to keep them up to date on their home values, include a quick CMA, add a link to recently sold homes, and ask them to stay in touch.
+**2\. Engage with your past clients.** Send them a market report or record a personalized video using an app like BombBomb. All you have to do is say you want to keep them up to date on their home values, include a quick CTA, add a link to recently sold homes, and ask them to stay in touch.
 
 {% include pullquote.html %}
 
