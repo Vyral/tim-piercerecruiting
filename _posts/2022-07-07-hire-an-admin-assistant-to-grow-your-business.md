@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/tim-peirce-recr-yt-1-4.jpg
 youtube_code: fDxw-QMhahM
 hidden: false
 ---
-{% include youtube.html %} {% include full-post-cta.html %} {% include excerpt.html %}
+{% include youtube.html %} {% include excerpt.html %}
 
 At what point in your real estate business should you hire an administrative assistant? From personal experience, I knew that&nbsp; I should have done it sooner, but my self-limiting beliefs held me back. I kept worrying about the financial obligations involved and how to train someone to properly help me with my business.&nbsp;
 
@@ -23,3 +23,5 @@ If you’re in the same place, I encourage you to get these things out of your h
 To help you identify what you should do and what you could potentially delegate out, I included a document called Delegate and Elevate in this blog. It’s an easy and quick exercise that will put things into perspective.&nbsp;
 
 In business, nobody does it by themselves. You have to bring somebody to help you move forward. If you want to schedule a chat with me to talk about how you can hire an administrative assistant, don’t hesitate to shoot me an email. I’ll be happy to help\!
+
+{% include full-post-cta.html %}
