@@ -16,9 +16,9 @@ hidden: false
 ---
 {% include youtube.html %} {% include excerpt.html %}
 
-At what point in your real estate business should you hire an administrative assistant? From personal experience, I knew that&nbsp; I should have done it sooner, but my self-limiting beliefs held me back. I kept worrying about the financial obligations involved and how to train someone to properly help me with my business.&nbsp;
+At what point in your real estate business should you hire an administrative assistant? From personal experience, I knew that I should have done it sooner, but my self-limiting beliefs held me back. I kept worrying about the financial obligations involved and how to train someone to properly help me with my business.&nbsp;
 
-If you’re in the same place, I encourage you to get these things out of your head and realize that you have to stop working for $15 to $20 an hour, so you can **focus on the most productive activities in your business**. For those who are already successful, you’re most probably long overdue to hire an administrative assistant.&nbsp;
+If you’re in the same place, I encourage you to get these things out of your head and realize that you have to stop working for $15 to $20 an hour so you can **focus on the most productive activities in your business**. For those who are already successful, you’re probably long overdue to hire an administrative assistant.&nbsp;
 
 To help you identify what you should do and what you could potentially delegate out, [I included a document called Delegate and Elevate](/uploads/EOS_Tool_Delegate_Elevate_EDITABLE.docx) in this blog. It’s an easy and quick exercise that will put things into perspective.&nbsp;
 
