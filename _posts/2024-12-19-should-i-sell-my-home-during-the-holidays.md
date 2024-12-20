@@ -28,8 +28,9 @@ The truth is that most people move when they need to, not when they want to. You
 
 {% include pullquote.html %}
 
-1. Inventory is low. When you list your home, you want there to be the least amount of competition possible so that you’re in a stronger negotiating position with buyers. Fortunately, December and January are when homes for sale hit a year-long low. This means buyers don’t have as many choices, and you might be able to ask for more concessions during negotiations.
-2. Buyers are highly motivated this time of year. You don’t have to worry about window shoppers this time of year. If a buyer is interested in your home during the holiday season, it probably means they need to move as soon as possible. This could be because they need to get a new job, they need to move soon for tax reasons, or anything else. Whatever their motivation is, you can be sure they’re more likely to be serious about buying your home and following through with the deal.
+2. Inventory is low. When you list your home, you want there to be the least amount of competition possible so that you’re in a stronger negotiating position with buyers. Fortunately, December and January are when homes for sale hit a year-long low. This means buyers don’t have as many choices, and you might be able to ask for more concessions during negotiations.
+
+3. Buyers are highly motivated this time of year. You don’t have to worry about window shoppers this time of year. If a buyer is interested in your home during the holiday season, it probably means they need to move as soon as possible. This could be because they need to get a new job, they need to move soon for tax reasons, or anything else. Whatever their motivation is, you can be sure they’re more likely to be serious about buying your home and following through with the deal.
 
 If you want to sell in Q1 next year, please call or email me for a free pre-listing consultation. It always pays to plan ahead, and I’ll go over everything you need to make sure you get the best deal possible. I look forward to hearing from you!
 
