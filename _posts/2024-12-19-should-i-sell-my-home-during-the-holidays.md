@@ -18,8 +18,6 @@ hidden: false
 ---
 {% include youtube.html %}
 
-{% include full-post-cta.html %}
-
 Do you need to sell your home soon but are afraid no one will want to buy during the holidays? Conventional real estate wisdom says that no one is looking to purchase a house this time of year. After all, everyone’s kids are home from school, and they must be incredibly busy from the holidays, right?
 
 The truth is that most people move when they need to, not when they want to. You can still get a great deal during the holiday season for your home sale; in fact, there are even a few key advantages. Here are three reasons why you should consider selling your home during the holidays:
@@ -34,4 +32,4 @@ The truth is that most people move when they need to, not when they want to. You
 
 If you want to sell in Q1 next year, please call or email me for a free pre-listing consultation. It always pays to plan ahead, and I’ll go over everything you need to make sure you get the best deal possible. I look forward to hearing from you!
 
-{% include cta-content-box.html %}
+{% include full-post-cta.html %}
